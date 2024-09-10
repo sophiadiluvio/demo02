@@ -1,1 +1,2 @@
 "hello from Sophia" 
+goodbye from Sophia.txt 
